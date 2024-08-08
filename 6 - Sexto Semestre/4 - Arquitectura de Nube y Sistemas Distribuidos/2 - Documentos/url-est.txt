@@ -1,0 +1,58 @@
+Linux en la nube
+**********************************
+http://copy.sh/v86
+https://www.tutorialspoint.com/
+http://www.webminal.org/
+https://distrotest.net/
+https://labs.play-with-docker.com   		Con contenedores (docker)
+
+Ayuda en linux
+**********************************
+https://explainshell.com
+(libro)
+http://www.oreilly.com/programming/free/ten-steps-to-linux-survival.csp
+https://www.distributed-systems.net/index.php/books/ds4/		Distributed Systems 4th edition (2023)
+
+Aprenda a Programar en pocos minutos :)
+***************************************
+http://learnxinyminutes.com/docs/es-es/c-es/
+
+Tools
+***************************************
+https://landscape.cncf.io/
+Xebia labs  https://digital.ai/devops-tools-periodic-table
+
+Top de los lenguajes de prog
+***************************************
+https://www.tiobe.com/tiobe-index/ 		
+https://spectrum.ieee.org/at-work/innovation/the-2018-top-programming-languages
+https://spectrum.ieee.org/top-programming-languages-2022
+
+EOL
+***************************************
+https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet
+https://www.ubuntu.com/info/release-end-of-life
+
+
+Licencias de microsoft por 180 dias
+***************************************
+https://www.microsoft.com/es-es/evalcenter/evaluate-windows-server-2022
+http://technet.microsoft.com/en-us    (en downloads)
+
+https://en.wikipedia.org/wiki/List_of_interface_bit_rates
+
+Fundamentos de redes
+***************************************
+http://www.inetdaemon.com/img/network_models.png
+http://flylib.com/books/3/223/1/html/2/files/01fig07.gif
+https://nmap.org/book/images/hdr/MJB-IP-Header-800x576.png
+https://nmap.org/book/images/hdr/MJB-TCP-Header-800x564.png
+https://nmap.org/book/images/hdr/MJB-UDP-Header-800x264.png
+
+
+https://www.quantion.com/es/como-sacar-el-maximo-partido-a-los-datos-con-el-big-data/
+
+Cloud Shell Editor
+https://shell.cloud.google.com/?hl=es&fromcloudshell=true&show=terminal
+http://tinyurl.com/terminalgoogle
+
