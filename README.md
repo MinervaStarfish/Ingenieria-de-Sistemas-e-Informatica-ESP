@@ -33,7 +33,7 @@ Este repositorio contiene todas mis notas, exámenes, talleres y diapositivas pa
 
 ### Cuarto Semestre
 
-- **1-Álgebra Lsineal**
+- **1-Álgebra Lineal**
 - **2-Bases de Datos**
 - **3-Arquitectura de Computadores**
 - **4-Estructuras de Datos y Algoritmos**
