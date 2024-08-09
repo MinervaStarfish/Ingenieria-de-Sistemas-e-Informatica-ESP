@@ -60,6 +60,14 @@ CIDR es un método para asignar direcciones IP que reemplaza la clasificación d
 
 #### a) Direcciones Públicas y Privadas
 - **Direcciones Públicas**: Se utilizan en internet y son únicas a nivel global.
+
+  - **Rangos de direcciones privadas**:
+    - Clase A: 0.0.0.0 - 126.255.255.255
+    - Clase B: 128.0.0.0 - 191.255.255.255
+    - Clase C: 192.0.0.0 - 223.255.255.255
+    - Clase D: 224.0.0.0 - 239.255.255.255
+    - Clase E: 240.0.0.0 - 254.255.255.255
+
 - **Direcciones Privadas**: Se utilizan dentro de redes locales y no son enrutables en internet.
 
   - **Rangos de direcciones privadas**:
