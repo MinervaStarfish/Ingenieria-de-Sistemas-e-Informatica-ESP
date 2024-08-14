@@ -1,0 +1,31 @@
+TABLERO KANBAN: https:
+//trello.com/invite/b/C2IqIHlE/ATTIb884e5bd69fd263a8e9df8ab85eddc43438F21CD/discord-bot-task-manager
+
+TAREAS PLANEADAS PARA EL SPRINT:
+
+1. To Do
+
+- Configurar entorno de desarrollo
+- Crear modelo de datos
+- Configurar estructura básica del proyecto
+- Implementar comandos de gestión de tareas
+- Crear repositorio del proyecto
+- Crear pipeline de integración continua
+
+2. In Progress
+
+- Tarea 1: Instalar Python y configurar un entorno virtual
+- Tarea 1: Diseñar el esquema de la base de datos para tareas y usuarios
+- Tarea 1: Crear el proyecto de Discord con discord.py
+
+3. Review
+
+- Revisión de la estructura básica del proyecto
+- Revisión del esquema de la base de datos
+- Revisión del pipeline de integración continua
+
+4. Done
+
+- Tarea 1: Instalar Python y configurar un entorno virtual
+- Tarea 1: Diseñar el esquema de la base de datos para tareas y usuarios
+- Tarea 1: Crear el proyecto de Discord con discord.py
