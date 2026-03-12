@@ -4,7 +4,7 @@ Este repositorio contiene todas mis notas, exámenes, talleres y diapositivas pa
 
 ## Contenido del Repositorio
 
-### Primer Semestre
+### 1-Primer Semestre
 
 - **1-Humanismo y Cultura Ciudadana**
 - **2-Cálculo Diferencial**
@@ -14,7 +14,7 @@ Este repositorio contiene todas mis notas, exámenes, talleres y diapositivas pa
 - **6-Taller de Sistemas Operativos**
 - **7-Ética General**
 
-### Segundo Semestre
+### 2-Segundo Semestre
 
 - **1-Lenguaje y Cultura**
 - **2-Cálculo Integral**
@@ -22,16 +22,16 @@ Este repositorio contiene todas mis notas, exámenes, talleres y diapositivas pa
 - **4-Lógica de Programación**
 - **5-Redes de Datos**
 
-### Tercer Semestre
+### 3-Tercer Semestre
 
 - **1-Cristología**
-- **2-Optativa CBD**
+- **2-Optativa CBD - Ofimatica**
 - **3-Paradigmas de Programación**
 - **4-Teoría de la Computación**
 - **5-Procesos Estocásticos**
 - **6-Telemática**
 
-### Cuarto Semestre
+### 4-Cuarto Semestre
 
 - **1-Álgebra Lineal**
 - **2-Bases de Datos**
@@ -41,7 +41,7 @@ Este repositorio contiene todas mis notas, exámenes, talleres y diapositivas pa
 - **6-Pensamiento Creativo**
 - **7-Contexto Profesional**
 
-### Quinto Semestre
+### 5-Quinto Semestre
 
 - **1-Inteligencia Artificial**
 - **2-Modelamiento Matemático**
@@ -51,7 +51,7 @@ Este repositorio contiene todas mis notas, exámenes, talleres y diapositivas pa
 - **6-Proyecto Aplicado en TIC 1**
 - **7-Metodología de la Investigación**
 
-### Sexto Semestre
+### 6-Sexto Semestre
 
 - **1-Ética Profesional**
 - **2-Electricidad y Magnetismo**
@@ -61,7 +61,7 @@ Este repositorio contiene todas mis notas, exámenes, talleres y diapositivas pa
 - **6-Sistemas Empresariales**
 - **7-Gestión de Proyectos**
 
-### Séptimo Semestre
+### 7-Séptimo Semestre
 
 - **1-Aplicaciones Móviles**
 - **2-Gestión de Calidad de Software**
@@ -71,7 +71,7 @@ Este repositorio contiene todas mis notas, exámenes, talleres y diapositivas pa
 - **6-Métodos Experimentales en Física**
 - **7-Seguridad de la Información**
 
-### Octavo Semestre
+### 8-Octavo Semestre
 
 - **1-Emprenderismo y Responsabilidad Social**
 - **2-Analítica de Datos**
@@ -81,7 +81,7 @@ Este repositorio contiene todas mis notas, exámenes, talleres y diapositivas pa
 - **6-Optativa CP**
 - **7-Optativa CI**
 
-### Noveno Semestre
+### 9-Noveno Semestre
 
 - **1-Práctica Profesional**
 - **2-Optativa CI 2**
